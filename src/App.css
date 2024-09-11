@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+img{
+  width:50%;
+  height:200px;
+  object-fit: cover;
+  background-color: chartreuse;
+  border:5px dotted deeppink;
+  margin:5px;
+}
+.cricket{
+  display:inline-block;
+  margin:5px;
+  width:20%;
+  background-color:lightseagreen;
+  border: 5px solid red;
+}
